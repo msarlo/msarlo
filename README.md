@@ -1,10 +1,4 @@
-<!-- Perfil de msarlo -->
-
-<p align="center">
-  <img src="https://github.com/msarlo.png" width="120" style="border-radius:50%" alt="msarlo github profile"/>
-</p>
-
-<h1 align="center">Olá, eu sou o Marcelo Sarlo 👋</h1>
+<h1 align="center">Olá, eu sou o Sarlo 👋</h1>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, focado em soluções modernas e eficientes.<br>
@@ -24,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" width="40" alt="ASP.NET"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="40" alt="WebAssembly"/>
 </p>
 
@@ -41,7 +34,7 @@
 ## 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/msarlo/">
+  <a href="[https://www.linkedin.com/in/msarlo/](https://www.linkedin.com/in/mateussarlo/)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:marcelo.sarlo@gmail.com">
