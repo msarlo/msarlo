@@ -24,6 +24,10 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
@@ -32,6 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" alt=".NET"/>
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 ### Linguagens
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
@@ -39,6 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
 </p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### Banco de Dados
 <p>
@@ -51,15 +63,22 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab"/>
 </p>
+
+</td>
+<td valign="top" width="50%">
 
 ### Infraestrutura
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" alt="Nginx"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -78,8 +97,8 @@ const sarlo = {
         frameworks: ["React", "Next.js", "Spring Boot", ".NET"],
         languages: ["JavaScript", "TypeScript", "Java", "C#"],
         databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        versionControl: ["Git", "GitHub"],
-        infrastructure: ["Docker", "AWS", "Nginx", "Linux"]
+        versionControl: ["Git", "GitHub", "GitLab"],
+        infrastructure: ["Docker", "AWS", "Linux"]
     },
     architecture: ["SPA", "MVC", "Microservices", "Clean Architecture"],
     currentFocus: "Explorando TypeScript e Microsserviços",
