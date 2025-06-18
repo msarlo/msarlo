@@ -9,40 +9,6 @@
   <img src="https://img.shields.io/github/followers/msarlo?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<div align="center">
-
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="50" alt="WebAssembly"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" alt=".NET"/>
-</p>
-
-### Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
-</p>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -52,6 +18,49 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=msarlo&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+### Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" alt=".NET"/>
+</p>
+
+### Linguagens
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
+</p>
+
+### Versionamento
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+</p>
+
+### Infraestrutura
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+</p>
+
 </div>
 
 ---
@@ -66,21 +75,15 @@ const sarlo = {
     code: ["JavaScript", "TypeScript", "Java", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "clean code"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Styled Components"]
-        },
-        backEnd: {
-            java: ["Spring Boot", "Spring Security"],
-            csharp: [".NET Core", "ASP.NET"],
-            misc: ["REST APIs", "GraphQL"]
-        },
+        frameworks: ["React", "Next.js", "Spring Boot", ".NET"],
+        languages: ["JavaScript", "TypeScript", "Java", "C#"],
         databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        misc: ["Docker", "WebAssembly", "PWA"]
+        versionControl: ["Git", "GitHub"],
+        infrastructure: ["Docker", "AWS", "Nginx", "Linux"]
     },
     architecture: ["SPA", "MVC", "Microservices", "Clean Architecture"],
-    currentFocus: "Explorando WebAssembly e Microsserviços",
-    funFact: "Debugar é como ser um detetive em um filme onde você também é o assassino"
+    currentFocus: "Explorando TypeScript e Microsserviços",
+    
 };
 ```
 
@@ -98,8 +101,8 @@ const sarlo = {
 
 <div align="center">
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=msarlo&repo=SEU_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/msarlo/SEU_REPO_1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=msarlo&repo=SEU_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/msarlo/SEU_REPO_2)
+[![Portal Saber](https://github-readme-stats.vercel.app/api/pin/?username=msarlo&repo=PortalSaber&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/msarlo/PortalSaber)
+[![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=msarlo&repo=msarlo&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/msarlo/msarlo)
 
 </div>
 
